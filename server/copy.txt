@@ -1,0 +1,1 @@
+mongodb+srv://costMern:<password>@costmern.aimqe7t.mongodb.net/?retryWrites=true&w=majority
